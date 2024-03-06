@@ -1,0 +1,21 @@
+{
+  "name": "cs-554-lab-2",
+  "version": "1.0.0",
+  "description": "CS-554 lab 2 assignment (Marvel API Express Server)",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rishi Kiran Reddy Bobbili (CWID - 20010588)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bluebird": "^3.7.2",
+    "blueimp-md5": "^2.19.0",
+    "express": "^4.14.1",
+    "flat": "^2.0.1",
+    "node-redis": "^0.1.7",
+    "redis": "4.6.10"
+  }
+}
