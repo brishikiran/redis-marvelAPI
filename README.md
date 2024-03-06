@@ -1,26 +1,7 @@
 Getting Started
 Sign up for Marvel API Key:
 
-Sign up for a Marvel Developer account and obtain an API key from Marvel Developer Portal.
-Installation:
 
-bash
-Copy code
-npm install
-Set Environment Variables:
-
-Create a .env file in the root directory.
-Add your Marvel API public and private keys to the .env file:
-plaintext
-Copy code
-MARVEL_PUBLIC_KEY=your_public_key
-MARVEL_PRIVATE_KEY=your_private_key
-Run the Server:
-
-bash
-Copy code
-npm start
-Access Endpoints:
 
 Characters Listing: http://localhost:3000/api/characters
 Comics Listing: http://localhost:3000/api/comics
